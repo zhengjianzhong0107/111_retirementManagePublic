@@ -13,7 +13,7 @@
 [https://www.bilibili.com/video/BV1c34y1w7Am/](https://www.bilibili.com/video/BV1c34y1w7Am/)**
 
 **毕业设计所有选题地址：
-[https://github.com/ynwynw/allProject](https://github.com/ynwynw/allProject)**
+[https://github.com/zhengjianzhong0107/allProject](https://github.com/zhengjianzhong0107/allProject)**
 
 ## 基于Java+Springboot+Vue的养老院管理系统(源码+数据库+12000字论文)111
 
